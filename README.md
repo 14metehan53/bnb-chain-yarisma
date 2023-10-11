@@ -1,2 +1,6 @@
-# bnb-chain-yarisma
+# $ 2.500
 BNB Chain Yarışma
+
+Proje detayları
+
+-eklenecek
