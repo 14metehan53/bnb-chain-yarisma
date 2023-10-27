@@ -1,8 +1,1 @@
-# $ 2,500
-BNB Chain Yarışma
-
-Blockchain Quest MMORPG
-
-Proje detayları
-
--eklenecek
+![alt text](https://github.com/14metehan53/game-image/blob/main/BlockchainQuestMmorpg.png?raw=true)
