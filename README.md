@@ -8,11 +8,11 @@
 </p>
 
 <h4>Bsc Testnet Address</h4>
-consumable : <code>0x2634713Aa3E20ff93B0083F986eF4B6D277c0bEE</code> </br>
-sword      : <code>0xEA5958b0213801F224b4616Db5661BFD5B508e23</code> </br>
-risein     : <code>0xDDb26eC3866ed0df789b9C4DF636cFFFEB739643</code> </br>
-scroll     : <code>0x59E7BCECF607c4DaE8185e3fb222fc2ebfDb01A7</code> </br>
-lapis      : <code>0x5B78C95C1e49116714561F28f7277b21621c0a25</code> </br>
+consumable : <code>0x2634713Aa3E20ff93B0083F986eF4B6D277c0bEE</code> (ERC-1155) </br>
+sword      : <code>0xEA5958b0213801F224b4616Db5661BFD5B508e23</code> (ERC-721) </br>
+risein     : <code>0xDDb26eC3866ed0df789b9C4DF636cFFFEB739643</code> (ERC-20)</br>
+scroll     : <code>0x59E7BCECF607c4DaE8185e3fb222fc2ebfDb01A7</code> (ERC-1155)</br>
+lapis      : <code>0x5B78C95C1e49116714561F28f7277b21621c0a25</code> (ERC-1155)</br>
 game       : <code>0x767824A3E732a8e73d176899Cb63028E19f9b075</code> </br>
 </p>
 
